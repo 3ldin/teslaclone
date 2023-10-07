@@ -5,3 +5,5 @@ Below are the HTML, CSS, and Javascript files. If you download the entire teslac
 Right click on the background of the HTML code, and select "Open with Live Server" or "Open in Default Browser."
 
 This website has not been optimized for mobile devices.
+
+Had this website had been made using React, I would be able to deploy it with no problems.
