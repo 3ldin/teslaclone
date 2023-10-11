@@ -1,3 +1,4 @@
+
 const main = document.querySelector(".main-1");
 const menu = document.querySelector("#menu");
 const cross = document.querySelector(".fa-xmark");
@@ -91,6 +92,5 @@ main.addEventListener("scroll", () =>{
         l8.classList.remove("active");
     }
 });
-
 
 
