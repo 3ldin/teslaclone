@@ -92,5 +92,3 @@ main.addEventListener("scroll", () =>{
         l8.classList.remove("active");
     }
 });
-
-
